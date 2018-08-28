@@ -1,0 +1,11 @@
+This files contains logs from course.
+
+The log structre is the following.
+===:pu=strftime('%c')=====|=====INFO====
+
+Wed, Aug 29, 2018 12:32:56 AM
+----------------------------------------------------------------------------------------------------
+* Created directory for the course and finished Course Overview.
+* Skipped Setting up Working Environment.
+----------------------------------------------------------------------------------------------------
+
