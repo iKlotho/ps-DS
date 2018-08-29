@@ -9,3 +9,10 @@ Wed, Aug 29, 2018 12:32:56 AM
 * Skipped Setting up Working Environment.
 ----------------------------------------------------------------------------------------------------
 
+Wed, Aug 29, 2018 11:51:54 PM
+--------------------------------------------------------------------------------------------------
+* Finished 3rd module of the course.
+* Used cookiecutter to setting up  project template
+* Fcked up the local git repo so removed the .git file {rm -rf .git} and folder. Forked files from
+Github repository {git clone https://github.com/iKlotho/ps-DS.git -b master}.
+
